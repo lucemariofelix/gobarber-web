@@ -2,7 +2,7 @@ import React from 'react';
 
 import GlobalStyle from './styles/global';
 
-import { AuthProvider } from './context/Authcontext';
+import { AuthProvider } from './hooks/Authcontext';
 
 import SignIn from './pages/SignIn';
 // import SignUp from './pages/SignUp';
